@@ -618,11 +618,12 @@ end
 
 local FsMain = {
     "Kirilka10012005",
-    "Nikita197675"
+    "Nikita197675",
+    "MrTop4ikPlayYT"
 }
 local PpMain = {
     "XiiUnWorthy",
-    "IV6M"
+    "sssss_sasddd"
 }
 
 local player = game:GetService("Players").LocalPlayer
@@ -731,10 +732,13 @@ end
 
 local FsMain = {
     "Kirilka10012005",
-    "vSebyy"
+    "andrey_rusd",
+    "Dimanoob2942",
+    "Nikita197675",
+    "MrTop4ikPlayYT"
 }
 local PpMain = {
-    "XiiUnWorthy",
+    "angelinadsa",
     "IV6M"
 }
 
